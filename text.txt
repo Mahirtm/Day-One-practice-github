@@ -50,3 +50,7 @@ four stage in git init to romote reository
 i live in bangladesh
 i live in bangladesh
 hello wofl flkdsfl
+
+add 
+commit 
+push
