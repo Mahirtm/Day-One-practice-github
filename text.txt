@@ -1,0 +1,53 @@
+hello world 
+i live in dhaka in bangladesh 
+i am a student 
+i am a lazy boy 
+what is your name 
+where are you from 
+where do you live 
+i am not from kolkata
+hello world 
+i live in dhaka in bangladesh 
+i am a student 
+i am a lazy boy 
+what is your name 
+where are you from 
+where do you live 
+i am not from kolkata
+hello world 
+i live in dhaka in bangladesh 
+i am a student 
+i am a lazy boy 
+what is your name 
+where are you from 
+where do you live 
+i am not from kolkata
+hello world 
+i live in dhaka in bangladesh 
+i am a student 
+i am a lazy boy 
+what is your name 
+where are you from 
+where do you live 
+i am not from kolkata
+
+
+verson control 
+change control 
+collaboration 
+
+
+
+four stage in git init to romote reository
+1.git inti 
+2.staging area
+3.Local repository
+4.Remote repository
+
+
+i live in bangladesh
+i live in bangladesh
+hello wofl flkdsfl
+i live in bangladesh
+i live in bangladesh
+hello wofl flkdsfl
