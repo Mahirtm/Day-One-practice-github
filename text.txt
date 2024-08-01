@@ -45,9 +45,8 @@ four stage in git init to romote reository
 4.Remote repository
 
 
-i live in bangladesh
-i live in bangladesh
-hello wofl flkdsfl
+
+
 i live in bangladesh
 i live in bangladesh
 hello wofl flkdsfl
